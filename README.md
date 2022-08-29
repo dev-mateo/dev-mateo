@@ -1,9 +1,12 @@
 
 # Hi there 👋 
 
+<img src="https://img.shields.io/badge/Pronouns-He%2FHim-green" alt="pronouns: he/him" />
 
-<p align="center"> <img src="https://img.shields.io/badge/Pronouns-He%2FHim-green" alt="pronouns: he/him" /> </p>
-
+[![Github](https://img.shields.io/badge/-Github-black?style=flat&logo=github&logoColor=white)](https://github.com/CYP3RBOT)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:cyp3rbot8009@gmail.com)
+[![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](mailto:cyp3rbot8009@gmail.com)
+[![Discord](https://img.shields.io/badge/-Discord-7289da?style=flat&logo=Discord&logoColor=white)](https://pastebin.com/a0R0WgD1)
 
 
 ## About me 🎓
@@ -23,13 +26,3 @@ I'm Mateo; I'm 14 years old and an aspiring software engineer. I've been coding 
 ## What I want to know/do next 🌠
 - Full stack web development
 - Java / C#
-
-<!--
-
-## Socials 📱
-
-[Github](https://github.com/CYP3RBOT)
-[Gmail](mailto:cyp3rbot8009@gmail.com)
-[Spotify](https://open.spotify.com/user/oj3fgrcstqajle2i8w2ofpb9a)
-
--->
