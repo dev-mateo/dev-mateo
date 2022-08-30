@@ -4,8 +4,8 @@
 <img src="https://img.shields.io/badge/Pronouns-He%2FHim-green" alt="pronouns: he/him" />
 
 [![Github](https://img.shields.io/badge/-Github-black?style=flat&logo=github&logoColor=white)](https://github.com/CYP3RBOT)
-[![Spotify](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](https://open.spotify.com/user/oj3fgrcstqajle2i8w2ofpb9a)
-[![Gmail](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](mailto:cyp3rbot8009@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:cyp3rbot8009@gmail.com)
+[![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/oj3fgrcstqajle2i8w2ofpb9a)
 [![Discord](https://img.shields.io/badge/-Discord-7289da?style=flat&logo=Discord&logoColor=white)](https://pastebin.com/a0R0WgD1)
 
 
