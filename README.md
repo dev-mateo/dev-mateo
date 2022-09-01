@@ -10,7 +10,7 @@
 
 
 ## About me 🎓
-I'm Mateo; I'm 15 years old and an aspiring software engineer. I've been coding for 2 years now, and plan to continue programming for a while. 
+I'm Mateo; I'm a freshman in highschool and an aspiring software engineer. I've been coding for 2 years now, and plan to continue programming for a while. 
 
 ## What I know 🧠
 - Python
