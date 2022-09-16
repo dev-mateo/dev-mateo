@@ -25,4 +25,4 @@ I'm Mateo; I'm a freshman in highschool and an aspiring software engineer. I've 
 
 ## What I want to know/do next 🌠
 - Full stack web development
-- Java / C#
+- C# / C++
