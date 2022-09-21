@@ -18,10 +18,9 @@ I'm Mateo; I'm a freshman in highschool and an aspiring software engineer. I've 
 
 ## What I'm doing ✍️
 - Web development
-  - Javascript
+  - Javascript & Typescript
   - HTML
   - CSS
-  - Bootstrap & jQuery
 
 ## What I want to know/do next 🌠
 - Full stack web development
