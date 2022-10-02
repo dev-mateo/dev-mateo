@@ -18,6 +18,7 @@ I'm Mateo; I'm a freshman in highschool and an aspiring software engineer. I've 
 
 ## What I'm doing ✍️
 - Web development
+  - React.js
   - Javascript & Typescript
   - HTML
   - CSS
