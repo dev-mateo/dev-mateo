@@ -22,6 +22,7 @@ I'm Mateo; I'm a freshman in highschool and an aspiring software engineer. I've 
   - Javascript & Typescript
   - HTML
   - CSS
+- Golang
 
 ## What I want to know/do next 🌠
 - Full stack web development
